@@ -15,8 +15,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-package leetcode;
-
 import java.util.PriorityQueue;
 
 class Solution23 {
@@ -79,6 +77,7 @@ class Solution23 {
         ListNode[] list = new ListNode[]{l11,l12,l13};
         tmp = solution23.mergeKLists(list);
 
+        System.out.println(tmp);
 //        ListNode.print(tmp);
     }
 }

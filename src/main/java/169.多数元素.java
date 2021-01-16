@@ -5,8 +5,6 @@
  */
 
 // @lc code=start
-package leetcode;
-
 import java.util.HashMap;
 import java.util.Map;
 

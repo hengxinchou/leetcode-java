@@ -5,8 +5,6 @@
  */
 
 // @lc code=start
-package leetcode;
-
 import java.util.Stack;
 import java.util.Map;
 import java.util.Deque;

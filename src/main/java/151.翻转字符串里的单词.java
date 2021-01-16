@@ -5,8 +5,6 @@
  */
 
 // @lc code=start
-package leetcode;
-
 import java.lang.StringBuilder;
 
 class Solution151 {

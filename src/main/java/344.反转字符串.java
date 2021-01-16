@@ -3,8 +3,6 @@
  *
  * [344] 反转字符串
  */
-package leetcode;
-
 // @lc code=start
 class Solution344 {
     public void reverseString(char[] s) {
